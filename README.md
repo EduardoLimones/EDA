@@ -54,27 +54,6 @@ El conjunto de datos utilizado contiene información sobre las ventas de videoju
 
 ---
 
-## 🚀 Cómo Empezar
-
-Para ejecutar este análisis en tu propio entorno, sigue estos pasos:
-
-1.  Clona el repositorio:
-    ```sh
-    git clone [https://github.com/EduardoLimones/EDA.git](git clone [https://github.com/EduardoLimones/EDA.git])
-    ```
-2.  Navega al directorio del proyecto:
-    ```sh
-    cd [EDA]
-    ```
-3.  Instala las dependencias necesarias:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-4.  Abre y ejecuta el notebook `memoria.ipynb`.
-
----
-
 ## ✍️ Autor
 
 * **Eduardo José Limones Contreras**
