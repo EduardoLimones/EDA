@@ -79,5 +79,5 @@ Para ejecutar este análisis en tu propio entorno, sigue estos pasos:
 ## ✍️ Autor
 
 * **[Eduardo José Limones Contreras]**
-* **LinkedIn**: [[Enlace a tu perfil de LinkedIn](https://www.linkedin.com/in/eduardo-jos%C3%A9-limones-contreras-b1348677/)]
-* **GitHub**: [[Enlace a tu perfil de GitHub](https://github.com/EduardoLimones)]
+* **LinkedIn**: [[Enlace a perfil de LinkedIn](https://www.linkedin.com/in/eduardo-jos%C3%A9-limones-contreras-b1348677/)]
+* **GitHub**: [[Enlace a  perfil de GitHub](https://github.com/EduardoLimones)]
