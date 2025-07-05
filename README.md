@@ -29,10 +29,10 @@ El análisis se centra en responder a las siguientes preguntas:
 A continuación se muestran algunos de los gráficos generados durante el análisis.
 
 **1. Evolución Anual de Ventas: Sony vs. Nintendo**
-![Gráfico de Líneas de Ventas Anuales](C:\Users\eduar\Desktop\EDA\src\graficos\Graficolineal.png)
+![Gráfico de Líneas de Ventas Anuales](EDA\src\graficos\Graficolineal.png)
 
 **2. Comparativa de Ventas Totales por Plataforma**
-![Gráfico de Barras o Lollipop](C:\Users\eduar\Desktop\EDA\src\graficos\ventaconsolaslollipop.png)
+![Gráfico de Barras o Lollipop](EDA\src\graficos\ventaconsolaslollipop.png)
 
 ---
 
