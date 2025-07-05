@@ -60,24 +60,23 @@ Para ejecutar este análisis en tu propio entorno, sigue estos pasos:
 
 1.  Clona el repositorio:
     ```sh
-    git clone [https://m.youtube.com/watch?v=KrJwqsuhZ8U&pp=0gcJCYUJAYcqIYzv](https://m.youtube.com/watch?v=KrJwqsuhZ8U&pp=0gcJCYUJAYcqIYzv)
+    git clone [[https://m.youtube.com/watch?v=KrJwqsuhZ8U&pp=0gcJCYUJAYcqIYzv](https://github.com/EduardoLimones/EDA.git)]([https://m.youtube.com/watch?v=KrJwqsuhZ8U&pp=0gcJCYUJAYcqIYzv](https://github.com/EduardoLimones/EDA.git))
     ```
 2.  Navega al directorio del proyecto:
     ```sh
-    cd [Nombre de tu carpeta]
+    cd [EDA]
     ```
 3.  Instala las dependencias necesarias:
     ```sh
     pip install -r requirements.txt
     ```
-    *(Asegúrate de tener un archivo `requirements.txt` con las librerías listadas arriba).*
 
-4.  Abre y ejecuta el notebook `analisis_videojuegos.ipynb`.
+4.  Abre y ejecuta el notebook `memoria.ipynb`.
 
 ---
 
 ## ✍️ Autor
 
-* **[Eduardo José Limones Contreras]**
+* **Eduardo José Limones Contreras**
 * **LinkedIn**: [[Enlace a perfil de LinkedIn](https://www.linkedin.com/in/eduardo-jos%C3%A9-limones-contreras-b1348677/)]
 * **GitHub**: [[Enlace a  perfil de GitHub](https://github.com/EduardoLimones)]
