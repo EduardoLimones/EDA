@@ -60,7 +60,7 @@ Para ejecutar este análisis en tu propio entorno, sigue estos pasos:
 
 1.  Clona el repositorio:
     ```sh
-    git clone [[https://m.youtube.com/watch?v=KrJwqsuhZ8U&pp=0gcJCYUJAYcqIYzv](https://github.com/EduardoLimones/EDA.git)]([https://m.youtube.com/watch?v=KrJwqsuhZ8U&pp=0gcJCYUJAYcqIYzv](https://github.com/EduardoLimones/EDA.git))
+    git clone [https://github.com/EduardoLimones/EDA.git]
     ```
 2.  Navega al directorio del proyecto:
     ```sh
